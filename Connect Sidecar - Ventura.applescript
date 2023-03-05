@@ -1,4 +1,5 @@
-set IPAD_NAME to "So and So’s iPad" -- Change this to the name of your iPad. Note the likelihood of the *right* single quotation mark, `’`(Unicode Codepoint 2019) character being used for possession, which you might want to copy and paste, as it's not the same as the non-slanted one on the keyboard,`'` (Unicode Codepoint 27).
+set IPAD_NAME to "So and So’s iPad"
+-- Change the above line to the name of your iPad. Note the likelihood of the *right* single quotation mark, `’`(Unicode Codepoint 2019) character being used for possession, which you might want to copy and paste, as it's not the same as the non-slanted one on the keyboard,`'` (Unicode Codepoint 27).
 
 
 on sidecar_connection(ipad_name)
